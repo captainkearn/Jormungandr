@@ -15,7 +15,7 @@ A Voron-inspired, high-speed CoreXY 3D printer concept using 4040 for the primar
 - Electronics: Rear “backpack” bay (Voron style), separated AC / DC compartments
 
  Files
-- `docs/TECHNICAL_DOCS.md` – design decisions, sizing, cut lists, rails, belt routing, Z system, electronics bay
+- `/docs/TECHNICAL_DOCS.md` – design decisions, sizing, cut lists, rails, belt routing, Z system, electronics bay
 - 
 - Do a belt-path/idler stack-up check with real pulleys
 - Validate rail lengths with carriage clearances
